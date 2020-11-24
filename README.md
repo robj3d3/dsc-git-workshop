@@ -1,4 +1,4 @@
-# DSC Univesrsity of Birmingham Git Workshop
+# DSC University of Birmingham Git Workshop
 
 To run this program, enter the following into a command line:
 ```

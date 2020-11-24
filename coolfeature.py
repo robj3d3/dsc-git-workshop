@@ -1,6 +1,7 @@
 import random
 
-def cool_feature():
+def get_coolfeature():
     return random.randint(1,10)
 
-print(cool_feature())
+def get_epicfeature():
+    return "This is an epic feature!"
